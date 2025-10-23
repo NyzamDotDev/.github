@@ -118,5 +118,5 @@ We maintain active contributions to confidential client engagements and curated 
 
 <p>
   <a href="https://nyzam.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://ik.imagekit.io/nyzam/Nyzam%20Art/MAIN%20LOGO%20-%20CR.svg?updatedAt=1761164234832" alt="Nyzam Green Logo" style="height: 55px; width: auto;"/></a>
+    <img src="https://ik.imagekit.io/nyzam/Nyzam%20Art/CR-MAIN%20LOGO.svg?updatedAt=1761188457297" alt="Nyzam Logo" style="height: 55px; width: auto;"/></a>
 </p>
